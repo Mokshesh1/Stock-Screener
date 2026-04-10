@@ -8,3 +8,5 @@ yfinance
 ta
 pydantic
 python-dotenv
+plotly==5.24.1
+
