@@ -1,0 +1,56 @@
+{
+  "zerodha": {
+    "api_key": "byu6zubk2uwnqy6g",
+    "api_secret": "lsp5novh3cljtuknpo8y36ozfe8egnhl",
+    "user_id": "MT4258",
+    "redirect_url": "http://127.0.0.1:8080/",
+    "enctoken": "XAwbe1oecOk2Bblx3iCTh1W2FUt3dAEO"
+  },
+  "trading_params": {
+    "risk_per_trade": 0.02,
+    "initial_capital": 100000,
+    "position_size_percent": 5,
+    "stop_loss_percent": 2.0,
+    "profit_target_percent": 5.0,
+    "max_daily_trades": 5,
+    "max_open_positions": 3
+  },
+  "stock_screener": {
+    "watchlist": [
+      "RELIANCE",
+      "INFY",
+      "TCS",
+      "HDFC",
+      "ICICIBANK",
+      "WIPRO",
+      "ITC",
+      "BAJAJFINSV",
+      "MARUTI",
+      "SUNPHARMA"
+    ],
+    "min_market_cap": 500000000000,
+    "max_pe_ratio": 40.0,
+    "min_volume": 1000000
+  },
+  "sentiment_analysis": {
+    "news_api_key": "https://newsapi.org/",
+    "twitter_bearer_token": "OPTIONAL_TWITTER_API_TOKEN",
+    "reddit_enabled": true,
+    "vix_enabled": true
+  },
+  "technical_params": {
+    "support_resistance_period": 20,
+    "breakout_confirmation_bars": 2,
+    "volume_ma_period": 20,
+    "min_volume_increase_percent": 1.2
+  },
+  "timeframe": {
+    "intraday": "15min",
+    "swing": "daily"
+  },
+  "trading_hours": {
+    "start": "09:15",
+    "end": "15:30",
+    "timezone": "Asia/Kolkata"
+  }
+}

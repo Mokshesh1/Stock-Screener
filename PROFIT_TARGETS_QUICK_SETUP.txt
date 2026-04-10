@@ -1,0 +1,150 @@
+# ⚡ QUICK SETUP - Dynamic Profit Targets
+
+## What Changed?
+✅ Profit targets now adapt based on **volatility** and **timeframe**
+❌ No more fixed 5% for all stocks
+
+## How to Use (2 Steps)
+
+### Step 1: Open Script
+```
+Edit: nse_screener.py
+Find line ~89:
+    CURRENT_TIMEFRAME = 'swing_5d'
+```
+
+### Step 2: Pick Your Strategy
+
+```python
+'intraday_15min'   → 1.5-30% targets, 1 day hold
+'intraday_1hour'   → 2-25% targets, 1 day hold
+'short_swing_1d'   → 5-18% targets, 1 day hold
+'short_swing_3d'   → 8-25% targets, 3 day hold
+'swing_5d'         → 10-20% targets, 5 day hold ⭐ DEFAULT
+'swing_7d'         → 12-20% targets, 7 day hold
+'positional_2w'    → 8-15% targets, 14 day hold
+'positional'       → 10-15% targets, 30 day hold
+```
+
+### Step 3: Run
+```bash
+python nse_screener.py
+```
+
+Done! ✅
+
+---
+
+## Example Output
+
+### Stock 1 (Low Volatility):
+```
+Entry: ₹500
+Target: ₹540 (+8.0%)  ← Adjusted for low volatility
+```
+
+### Stock 2 (High Volatility):
+```
+Entry: ₹500
+Target: ₹625 (+25.0%) ← Adjusted for high volatility
+```
+
+Each stock gets its own profit target! 🎯
+
+---
+
+## Picking a Strategy
+
+**Day Trading?**
+```python
+CURRENT_TIMEFRAME = 'short_swing_1d'
+```
+
+**Swing Trading? (Recommended)**
+```python
+CURRENT_TIMEFRAME = 'swing_5d'
+```
+
+**Want to hold longer?**
+```python
+CURRENT_TIMEFRAME = 'positional'
+```
+
+**Aggressive scalping?**
+```python
+CURRENT_TIMEFRAME = 'intraday_15min'
+```
+
+---
+
+## How It Calculates
+
+**Formula:**
+```
+profit % = base_profit + (volatility × 0.5)
+           [capped at min 2%, max based on timeframe]
+```
+
+**Real Example (swing_5d):**
+```
+Stock: RELIANCE
+Price: ₹2500
+Volatility: 25%
+
+Calculation:
+  Base: 10%
+  Bonus: 25% × 0.5 = 12.5%
+  Total: 22.5%
+  
+  But max for swing_5d is 20%
+  So: 20% target
+  
+  Target price: ₹2500 × 1.20 = ₹3000
+```
+
+---
+
+## Key Features
+
+✅ Auto-calculates volatility
+✅ 8 pre-built strategies
+✅ Targets adapt per stock
+✅ Change with 1 line edit
+✅ Min 2%, Max 30% targets
+
+---
+
+## Files
+
+**Main:** `nse_screener.py` (Line 89)
+**Guide:** `DYNAMIC_PROFIT_TARGETS_GUIDE.md`
+**Details:** `PROFIT_TARGETS_UPDATE_SUMMARY.txt`
+
+---
+
+## Troubleshooting
+
+❌ Targets still 5%?
+✅ Restart Python, make sure you saved the file
+
+❌ Error when running?
+✅ Check syntax in line 89, use quotes around strategy name
+
+❌ Want different strategy?
+✅ Edit line 89, save, restart script
+
+---
+
+## Default
+
+**Timeframe:** `swing_5d` (recommended)
+**Targets:** 10-20%
+**Holding:** 5 days
+**Best For:** Most traders
+
+Change anytime to match your style! 🚀
+
+---
+
+**Updated:** April 7, 2026
+**Status:** ✅ Ready to Use

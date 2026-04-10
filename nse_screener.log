@@ -1,0 +1,78 @@
+2026-04-06 11:45:26,819 - ERROR - $HDFC.NS: possibly delisted; no timezone found
+2026-04-06 11:45:28,873 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: HDFC BANK.NS"}}}
+2026-04-06 11:45:29,075 - ERROR - $HDFC BANK.NS: possibly delisted; no timezone found
+2026-04-06 11:45:33,316 - ERROR - $BAJAJFLTSEC.NS: possibly delisted; no timezone found
+2026-04-06 11:45:33,848 - ERROR - $MAHINDRA.NS: possibly delisted; no timezone found
+2026-04-06 11:45:34,828 - ERROR - $BHARATIFINSEC.NS: possibly delisted; no timezone found
+2026-04-06 11:45:35,390 - ERROR - $BAJAJSTAL.NS: possibly delisted; no timezone found
+2026-04-06 11:45:36,795 - ERROR - $M MFIN.NS: possibly delisted; no timezone found
+2026-04-06 11:45:37,335 - ERROR - $NORMALCEM.NS: possibly delisted; no timezone found
+2026-04-06 11:45:38,649 - ERROR - $GMRINFRA.NS: possibly delisted; no timezone found
+2026-04-06 11:45:39,570 - ERROR - $TATAMOTORS.NS: possibly delisted; no timezone found
+2026-04-06 11:45:45,242 - ERROR - $ALUMINIUM.NS: possibly delisted; no timezone found
+2026-04-06 11:45:49,472 - ERROR - $CRESOL.NS: possibly delisted; no timezone found
+2026-04-06 11:45:49,933 - ERROR - $DEEPAKNI.NS: possibly delisted; no price data found  (1d 2025-12-27 -> 2026-04-06)
+2026-04-06 11:45:50,871 - ERROR - $DNRECS.NS: possibly delisted; no timezone found
+2026-04-06 11:45:52,567 - ERROR - $IGIHOTEL.NS: possibly delisted; no timezone found
+2026-04-06 11:45:53,793 - ERROR - $INTELLECY.NS: possibly delisted; no timezone found
+2026-04-06 11:45:54,345 - ERROR - $IOBEGINVST.NS: possibly delisted; no timezone found
+2026-04-06 11:45:54,904 - ERROR - $JAIPRAKASH.NS: possibly delisted; no timezone found
+2026-04-06 11:45:56,133 - ERROR - $LTTECH.NS: possibly delisted; no timezone found
+2026-04-06 11:45:57,058 - ERROR - $MINDTREE.NS: possibly delisted; no timezone found
+2026-04-06 11:45:57,596 - ERROR - $MNSTTECH.NS: possibly delisted; no timezone found
+2026-04-06 11:46:02,714 - ERROR - $SBIMAGIC.NS: possibly delisted; no timezone found
+2026-04-06 11:46:03,250 - ERROR - $SEQUENT.NS: possibly delisted; no timezone found
+2026-04-06 11:46:04,208 - ERROR - $ADVANIGAS.NS: possibly delisted; no timezone found
+2026-04-06 11:46:04,763 - ERROR - $AICHERTECH.NS: possibly delisted; no timezone found
+2026-04-06 11:46:05,696 - ERROR - $ALLSEC.NS: possibly delisted; no timezone found
+2026-04-06 11:46:06,239 - ERROR - $ANDHRASU.NS: possibly delisted; no timezone found
+2026-04-06 11:46:06,794 - ERROR - $ANUBHAV.NS: possibly delisted; no timezone found
+2026-04-06 11:46:07,328 - ERROR - $APDCLLTD.NS: possibly delisted; no timezone found
+2026-04-06 11:46:08,231 - ERROR - $APTECH.NS: possibly delisted; no timezone found
+2026-04-06 11:46:08,769 - ERROR - $ARVINDLTD.NS: possibly delisted; no timezone found
+2026-04-06 11:46:09,324 - ERROR - $ASIANHOTEL.NS: possibly delisted; no timezone found
+2026-04-06 11:46:09,875 - ERROR - $ASIACONST.NS: possibly delisted; no timezone found
+2026-04-06 11:46:10,435 - ERROR - $ASIANPAINTS.NS: possibly delisted; no timezone found
+2026-04-06 11:46:12,104 - ERROR - $AXISSHIP.NS: possibly delisted; no timezone found
+2026-04-06 11:46:12,649 - ERROR - $BAJAJCONSUM.NS: possibly delisted; no timezone found
+2026-04-06 11:46:12,947 - ERROR - $BAJAJCORP.NS: possibly delisted; no price data found  (1d 2025-12-27 -> 2026-04-06)
+2026-04-06 11:46:14,996 - ERROR - $BENSON.NS: possibly delisted; no timezone found
+2026-04-06 11:52:19,019 - ERROR - $HDFC.NS: possibly delisted; no timezone found
+2026-04-06 11:52:20,652 - ERROR - HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: HDFC BANK.NS"}}}
+2026-04-06 11:52:20,828 - ERROR - $HDFC BANK.NS: possibly delisted; no timezone found
+2026-04-06 11:52:23,968 - ERROR - $BAJAJFLTSEC.NS: possibly delisted; no timezone found
+2026-04-06 11:52:24,514 - ERROR - $MAHINDRA.NS: possibly delisted; no timezone found
+2026-04-06 11:52:25,356 - ERROR - $BHARATIFINSEC.NS: possibly delisted; no timezone found
+2026-04-06 11:52:25,861 - ERROR - $BAJAJSTAL.NS: possibly delisted; no timezone found
+2026-04-06 11:52:26,838 - ERROR - $M MFIN.NS: possibly delisted; no timezone found
+2026-04-06 11:52:27,338 - ERROR - $NORMALCEM.NS: possibly delisted; no timezone found
+2026-04-06 11:52:28,534 - ERROR - $GMRINFRA.NS: possibly delisted; no timezone found
+2026-04-06 11:52:29,289 - ERROR - $TATAMOTORS.NS: possibly delisted; no timezone found
+2026-04-06 11:52:32,982 - ERROR - $ALUMINIUM.NS: possibly delisted; no timezone found
+2026-04-06 11:52:35,576 - ERROR - $CRESOL.NS: possibly delisted; no timezone found
+2026-04-06 11:52:35,762 - ERROR - $DEEPAKNI.NS: possibly delisted; no price data found  (1d 2025-12-27 -> 2026-04-06)
+2026-04-06 11:52:36,537 - ERROR - $DNRECS.NS: possibly delisted; no timezone found
+2026-04-06 11:52:37,705 - ERROR - $IGIHOTEL.NS: possibly delisted; no timezone found
+2026-04-06 11:52:38,642 - ERROR - $INTELLECY.NS: possibly delisted; no timezone found
+2026-04-06 11:52:39,149 - ERROR - $IOBEGINVST.NS: possibly delisted; no timezone found
+2026-04-06 11:52:39,667 - ERROR - $JAIPRAKASH.NS: possibly delisted; no timezone found
+2026-04-06 11:52:40,613 - ERROR - $LTTECH.NS: possibly delisted; no timezone found
+2026-04-06 11:52:41,361 - ERROR - $MINDTREE.NS: possibly delisted; no timezone found
+2026-04-06 11:52:41,857 - ERROR - $MNSTTECH.NS: possibly delisted; no timezone found
+2026-04-06 11:52:45,109 - ERROR - $SBIMAGIC.NS: possibly delisted; no timezone found
+2026-04-06 11:52:45,604 - ERROR - $SEQUENT.NS: possibly delisted; no timezone found
+2026-04-06 11:52:46,355 - ERROR - $ADVANIGAS.NS: possibly delisted; no timezone found
+2026-04-06 11:52:46,858 - ERROR - $AICHERTECH.NS: possibly delisted; no timezone found
+2026-04-06 11:52:47,593 - ERROR - $ALLSEC.NS: possibly delisted; no timezone found
+2026-04-06 11:52:48,092 - ERROR - $ANDHRASU.NS: possibly delisted; no timezone found
+2026-04-06 11:52:48,610 - ERROR - $ANUBHAV.NS: possibly delisted; no timezone found
+2026-04-06 11:52:49,116 - ERROR - $APDCLLTD.NS: possibly delisted; no timezone found
+2026-04-06 11:52:49,891 - ERROR - $APTECH.NS: possibly delisted; no timezone found
+2026-04-06 11:52:50,391 - ERROR - $ARVINDLTD.NS: possibly delisted; no timezone found
+2026-04-06 11:52:50,902 - ERROR - $ASIANHOTEL.NS: possibly delisted; no timezone found
+2026-04-06 11:52:51,410 - ERROR - $ASIACONST.NS: possibly delisted; no timezone found
+2026-04-06 11:52:51,916 - ERROR - $ASIANPAINTS.NS: possibly delisted; no timezone found
+2026-04-06 11:52:53,039 - ERROR - $AXISSHIP.NS: possibly delisted; no timezone found
+2026-04-06 11:52:53,552 - ERROR - $BAJAJCONSUM.NS: possibly delisted; no timezone found
+2026-04-06 11:52:53,730 - ERROR - $BAJAJCORP.NS: possibly delisted; no price data found  (1d 2025-12-27 -> 2026-04-06)
+2026-04-06 11:52:55,161 - ERROR - $BENSON.NS: possibly delisted; no timezone found

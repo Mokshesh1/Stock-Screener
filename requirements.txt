@@ -1,0 +1,10 @@
+kiteconnect>=5.0.0
+pandas
+numpy
+requests
+python-dateutil
+pytz
+yfinance
+ta
+pydantic
+python-dotenv
